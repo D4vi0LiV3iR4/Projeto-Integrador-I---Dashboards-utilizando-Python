@@ -1,8 +1,10 @@
-# Projeto Integrador I – Dashboards em Python com o Tema Astronomia.  
+# Projeto Integrador I – Astronomia  
 
 Este projeto foi desenvolvido por **Davi Pereira de Oliveira** e **Heloa Silva de Araujo Calegari** como parte do **Projeto Integrador I**, com foco em **Astronomia**.  
 
-O objetivo foi explorar e analisar diferentes bases de dados relacionadas ao espaço, produzindo **visualizações gráficas** que permitem compreender melhor fenômenos astronômicos e avanços da exploração espacial.  
+O objetivo foi explorar e analisar diferentes bases de dados relacionadas ao espaço, produzindo **visualizações gráficas** e **tabelas** que permitem compreender melhor fenômenos astronômicos e avanços da exploração espacial.  
+
+A versão consolidada das análises pode ser consultada no arquivo **`Tabelas e Dashboards.pdf`**, que reúne todas as tabelas e gráficos gerados pelo projeto.  
 
 ---
 
